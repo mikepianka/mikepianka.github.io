@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mikepianka.github.io/sitemap.xml

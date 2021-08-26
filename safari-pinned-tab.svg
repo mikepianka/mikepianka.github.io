@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 80.000001 80"
+   height="80mm"
+   width="80mm">
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path843" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path840" />
+    </marker>
+    <linearGradient
+       id="linearGradient4652">
+      <stop
+         id="stop4648"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop4650"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <linearGradient
+       y2="58.626953"
+       x2="67.657745"
+       y1="51.067425"
+       x1="66.500191"
+       gradientTransform="matrix(3.7795276,0,0,4.2924848,-200.87093,-703.27504)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4666"
+       xlink:href="#linearGradient4652" />
+    <mask
+       id="mask4662"
+       maskUnits="userSpaceOnUse">
+      <rect
+         transform="matrix(1,0,-0.47404841,-0.88049878,0,0)"
+         y="-487.56732"
+         x="6.361218"
+         height="39.648792"
+         width="72.5"
+         id="rect4664"
+         style="opacity:0.98000004;fill:url(#linearGradient4666);fill-opacity:1;stroke:none;stroke-width:7.65291214;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    </mask>
+    <clipPath
+       id="clipPath836"
+       clipPathUnits="userSpaceOnUse">
+      <ellipse
+         transform="matrix(1,0,-0.47404841,-0.88049878,0,0)"
+         ry="59.063519"
+         rx="36.876881"
+         cy="-508.1402"
+         cx="35.189098"
+         id="circle838"
+         style="opacity:0.98000004;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.43048954;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    </clipPath>
+    <filter
+       id="filter1116"
+       style="color-interpolation-filters:sRGB"
+       height="1.5"
+       y="-0.25">
+      <feGaussianBlur
+         id="feGaussianBlur1106"
+         result="result6"
+         stdDeviation="5" />
+      <feComposite
+         id="feComposite1108"
+         in2="result6"
+         operator="atop"
+         in="SourceGraphic"
+         result="result8" />
+      <feComposite
+         id="feComposite1110"
+         in="result8"
+         in2="SourceAlpha"
+         operator="over"
+         result="result9" />
+      <feColorMatrix
+         id="feColorMatrix1112"
+         result="result10"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1 0 " />
+      <feBlend
+         id="feBlend1114"
+         in2="result6"
+         mode="normal"
+         in="result10" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-35.36602,5.0071023)"
+     id="layer1">
+    <circle
+       r="38.899029"
+       cy="34.969288"
+       cx="75.389626"
+       id="path856"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.111;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers fill stroke" />
+    <flowRoot
+       transform="matrix(1.0583333,0,0,1.0583333,-206.07034,-408.6435)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="flowRoot4518"
+       xml:space="preserve"><flowRegion
+         style="fill:#ffffff;fill-opacity:1"
+         id="flowRegion4520"><rect
+           style="fill:#ffffff;fill-opacity:1"
+           y="391.09113"
+           x="237.14285"
+           height="414.28571"
+           width="420"
+           id="rect4522" /></flowRegion><flowPara
+         id="flowPara4524">MP</flowPara></flowRoot>    <flowRoot
+       clip-path="url(#clipPath836)"
+       mask="url(#mask4662)"
+       transform="matrix(1.0583333,0,-0.56979208,-0.7504618,37.521316,364.69972)"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#a0a0a0;fill-opacity:1;stroke:none"
+       id="flowRoot4518-9"
+       xml:space="preserve"><flowRegion
+         style="fill:#a0a0a0;fill-opacity:1"
+         id="flowRegion4520-2"><rect
+           style="fill:#a0a0a0;fill-opacity:1"
+           y="391.09113"
+           x="237.14285"
+           height="414.28571"
+           width="420"
+           id="rect4522-6" /></flowRegion><flowPara
+         id="flowPara4524-0">MP</flowPara></flowRoot>  </g>
+</svg>
