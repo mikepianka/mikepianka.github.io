@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog | Mike Pianka</title>
-    <link>https://mikepianka.github.io/</link>
-    <description>Recent content on Blog | Mike Pianka</description>
+    <title>new on Blog | Mike Pianka</title>
+    <link>https://mikepianka.github.io/tags/new/</link>
+    <description>Recent content in new on Blog | Mike Pianka</description>
     <image>
       <url>https://mikepianka.github.io/apple-touch-icon.png</url>
       <link>https://mikepianka.github.io/apple-touch-icon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mikepianka.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mikepianka.github.io/tags/new/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ArcGIS Developer Docs - Dark Mode</title>
       <link>https://mikepianka.github.io/posts/dark-arcgis-docs/</link>
